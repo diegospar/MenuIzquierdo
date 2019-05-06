@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MenuIzquierdo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Micro Ahorro</string>
+    <string name="menu_gallery">Opciones Bancarias</string>
+    <string name="menu_slideshow">Cuenta/Tarjeta</string>
+    <string name="menu_tools">Ajustes</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Cerrar sesión</string>
+</resources>
